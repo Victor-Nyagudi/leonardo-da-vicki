@@ -99,7 +99,7 @@ author:
   links:
     - title: Ko-Fi
       url: https://ko-fi.com/leonardodavicki
-      icon:
+      icon: fab fa-ko-fi
     - title: YouTube
       url: https://www.youtube.com/@LeonardoDaVicki
       icon: fab fa-youtube
@@ -111,10 +111,10 @@ author:
 footer_links:
   - title: Ko-Fi
     url: https://ko-fi.com/leonardodavicki
-    icon:
+    icon: fab fa-ko-fi
   - title: Twitter
     url: https://x.com/LeonardoDaVicki
-    icon: fab fa-twitter-square
+    icon: fab fa-x-twitter
   - title: Twitch
     url: https://twitch.tv/LeonardoDaVicki
     icon: fab fa-twitch
