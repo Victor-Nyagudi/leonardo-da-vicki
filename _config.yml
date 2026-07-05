@@ -18,14 +18,14 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Leonardo Da Vicki"
+description: "Imagination is the best reference."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+read_time: true
+words_per_minute: 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -39,7 +39,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: LeonardoDaVicki # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -92,17 +92,35 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
+  name: Vicktor Nyagudi
+  picture: /assets/images/vicktor_square_solid_bg.jpg
   email:
-  twitter:
+  twitter: LeonardoDaVicki
   links:
-    - title:
-      url:
+    - title: Ko-Fi
+      url: https://ko-fi.com/leonardodavicki
       icon:
+    - title: YouTube
+      url: https://www.youtube.com/@LeonardoDaVicki
+      icon: fab fa-youtube
+    - title: Instagram
+      url: https://www.instagram.com/leodavicki/
+      icon: fab fa-instagram
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Ko-Fi
+    url: https://ko-fi.com/leonardodavicki
+    icon:
+  - title: Twitter
+    url: https://x.com/LeonardoDaVicki
+    icon: fab fa-twitter-square
+  - title: Twitch
+    url: https://twitch.tv/LeonardoDaVicki
+    icon: fab fa-twitch
+  - title: YouTube
+    url: https://www.youtube.com/@LeonardoDaVicki
+    icon: fab fa-youtube
+  - title: Instagram
+    url: https://www.instagram.com/leodavicki/
+    icon: fab fa-instagram
